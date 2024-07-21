@@ -1,0 +1,14 @@
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/bin/Debug/net8.0/RaceOf20sPlayerVsBot
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/bin/Debug/net8.0/RaceOf20sPlayerVsBot.deps.json
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/bin/Debug/net8.0/RaceOf20sPlayerVsBot.runtimeconfig.json
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/bin/Debug/net8.0/RaceOf20sPlayerVsBot.dll
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/bin/Debug/net8.0/RaceOf20sPlayerVsBot.pdb
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/RaceOf20sPlayerVsBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/RaceOf20sPlayerVsBot.AssemblyInfoInputs.cache
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/RaceOf20sPlayerVsBot.AssemblyInfo.cs
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/RaceOf20sPlayerVsBot.csproj.CoreCompileInputs.cache
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/RaceOf20sPlayerVsBot.dll
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/refint/RaceOf20sPlayerVsBot.dll
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/RaceOf20sPlayerVsBot.pdb
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/RaceOf20sPlayerVsBot.genruntimeconfig.cache
+/Users/matiashenriquez/Downloads/Proyectos/RaceOf20sPlayerVsBot/obj/Debug/net8.0/ref/RaceOf20sPlayerVsBot.dll
